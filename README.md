@@ -1,6 +1,6 @@
 # Thomas Young 👨‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:freeskydiver1007@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freeskydiver1007@gmail.com)](mailto:freeskydiver1007@gmail.com)
 ---
 
 ## Hi fellows 👋,
