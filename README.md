@@ -1,9 +1,9 @@
-# Daliber Stefanovic 👨‍💻
+# Dalibor Stefanovic 👨‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-freeskydiver1007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freeskydiver1007@gmail.com)](mailto:freeskydiver1007@gmail.com)
 ---
 
-### I'm Daliber, I am a software engineer who loves tech and see myself as product enthoziast.
+### I'm Dalibor, I am a software engineer who loves tech and see myself as product enthoziast.
 -------
   
 ## 🧐 About
